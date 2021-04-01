@@ -1,0 +1,9 @@
+---
+# vars file for webserver
+#
+ software:
+         - httpd
+         - php
+           
+
+ httpdpasswdfile: "/var/www/html/.htaccess"          

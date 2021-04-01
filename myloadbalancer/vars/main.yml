@@ -1,0 +1,5 @@
+---
+# vars file for myloadbalancer
+
+package_name: haproxy
+LoadBalancer_port : "8080"
